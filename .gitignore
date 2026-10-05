@@ -1,0 +1,15 @@
+# Compiled executables
+ExtendedLFUCache
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
